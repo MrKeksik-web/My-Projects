@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,500,700&display=swap');
 
-@import './components/header.css';
-@import './components/feedback.css';
-@import './components/footer.css';
-@import './components/management.css';
-@import './components/services.css';
-@import './components/team.css';
-@import './components/testimonials.css';
+@import './header.css';
+@import './feedback.css';
+@import './footer.css';
+@import './management.css';
+@import './services.css';
+@import './team.css';
+@import './testimonials.css';
